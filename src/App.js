@@ -7,6 +7,7 @@ import Skills from './pages/skills'
 import Education from './pages/education'
 import Experience from './pages/experience'
 import Contact from './pages/contact'
+import Projects from './pages/projects'
 
 const App = props => {
   return (
@@ -14,6 +15,7 @@ const App = props => {
       <div>
         <Switch>
           <Route path="/skills" component={Skills} />
+          <Route path="/projects" component={Projects} />
           <Route path="/experience" component={Experience} />
           <Route path="/contact" component={Contact} />
           <Route path="/education" component={Education} />

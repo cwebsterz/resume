@@ -21,6 +21,13 @@ const Header = () => {
               Skills
             </a>
           </Link>
+
+          <Link to="/projects">
+            <a className="f6 f5-l link bg-animate black-70 hover-bg-black-70 hover-white dib pa3 ph4-l">
+              Projects
+            </a>
+          </Link>
+
           <Link to="/education">
             <a className="f6 f5-l link bg-animate black-70 hover-bg-black-70 hover-white dib pa3 ph4-l">
               Education
