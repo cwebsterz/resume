@@ -6,7 +6,7 @@ const Header = () => {
   return (
     <div>
       <div className="vh-60 cover bg-center tc">
-        <img src="https://cdn.glitch.com/c5bbc46a-f916-4484-9867-45b388ed5ac1%2Fbg-min.jpg?1504057490077" />
+        <img src="https://cdn.glitch.com/c5bbc46a-f916-4484-9867-45b388ed5ac1%2Ffullsizeoutput_3e1-min.jpeg?1504293669080" />
       </div>
 
       <div className="bg-white black-70 tc pv2 avenir">
