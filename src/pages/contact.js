@@ -8,6 +8,7 @@ const Contact = () => {
     <div>
       <Header />
       <div>
+        <h2 className="f2 fw4 pa3 mv0 tc avenir black-70">Contact</h2>
         <article className="pv3 b--black-10 ph3 ph0-l avenir tc">
           <div className="flex flex-column flex-row-ns">
             <div className="w-100 w-60-ns pr3-ns order-2 order-1-ns">
@@ -29,10 +30,10 @@ const Contact = () => {
                 </p>
               </p>
             </div>
-            <div className="pl3-ns order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
+            <div className="pr5-ns mr5 order-1 order-2-ns mb4 mb0-ns w-100 w-40-ns">
               <img
                 src="https://cdn.glitch.com/c5bbc46a-f916-4484-9867-45b388ed5ac1%2FScreen%20Shot%202017-08-28%20at%205.25.18%20PM%20copy-min.png?1504057490496"
-                className="db bg-right"
+                className="db"
               />
             </div>
           </div>

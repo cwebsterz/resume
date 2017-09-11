@@ -7,7 +7,7 @@ const Experience = () => {
   return (
     <div>
       <Header />
-
+      <h2 className="f2 fw4 pa3 mv0 tc avenir black-70">Experience</h2>
       <article className="center mw5 mw6-ns br3 hidden ba b--black-10 mv4 avenir">
         <h1 className="f4 bg-near-white br3 br--top black-60 mv0 pv2 ph3 tc">
           Natural Grocers

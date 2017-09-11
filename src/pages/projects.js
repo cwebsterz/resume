@@ -7,6 +7,7 @@ const Projects = () => {
   return (
     <div>
       <Header />
+      <h2 className="f2 fw4 pa3 mv0 tc avenir black-70">Projects</h2>
       <div className="avenir">
         <ul className="list pl0 mt0 measure center">
           <a
