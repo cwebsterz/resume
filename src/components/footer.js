@@ -26,6 +26,13 @@ const Footer = () => {
         >
           Twitter
         </a>
+        <a
+          href="https://glitch.com/@CullenWebster"
+          title="Glitch"
+          className="f4 dib pr2 black-70 link hover-black-70 dim"
+        >
+          Glitch
+        </a>
       </div>
     </footer>
   )
